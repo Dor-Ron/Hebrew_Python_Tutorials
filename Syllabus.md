@@ -75,6 +75,8 @@
   + Beginner For Loops - לולאות For בסיסיות
 
   + Functions - פונקציות
+      
+      * scope - תווך
 
   + Recursion - רקורסיה
 
