@@ -36,7 +36,7 @@
 
   + String Formatting - מלוי מחרוזות
 
-  + String Slicing - חיתוך מחרוזות
+  + String Slicing - מיון מחרוזות
 
   + I/O - קלט ופלט
 
@@ -75,7 +75,7 @@
   + Beginner For Loops - לולאות For בסיסיות
 
   + Functions - פונקציות
-      
+
       * scope - תווך
 
   + Recursion - רקורסיה
