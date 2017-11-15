@@ -18,4 +18,4 @@ lst[3] = True #=> lst = [3,4,"Dor",True]
 
 # אפשר ליצור מרשימות, טאפליםת ומחרוזות רשימות וטאפלים
 new_tuple = tuple("Yes") #=> ("Y", "e", "s")
-new_list = list("yes")  #=> ("Y", "e", "s")
+new_list = list("yes")  #=> ["Y", "e", "s"]
